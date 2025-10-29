@@ -76,5 +76,15 @@ Users can filter all visuals simultaneously by:
 - Reported cases spiked sharply around **2016**, possibly due to improved reporting or migration crises  
 
 ---
+---
+
+## 🧭 Next Steps
+- Add KPI cards like **Total Victims** and **% Female** for quick insights.  
+- Create a **map or flow chart** to show trafficking routes.  
+- Integrate **Power BI** for advanced visuals and automation.  
+- Expand analysis with data from **UNODC** or **World Bank**.  
+- Explore links between **gender, migration, and exploitation trends**.
+
+---
 
 
